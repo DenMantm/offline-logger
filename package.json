@@ -3,7 +3,7 @@
   "scripts": {
     "start": "forever server.js"
   },
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Logger to check your internet connection avalability,Monitoring time your connection is offline",
   "main": "server.js",
   "repository": "",

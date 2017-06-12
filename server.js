@@ -2,24 +2,40 @@
 var ping = require('ping');
 var fs = require('fs');
 
-  var host = 'google.com';
-  
+  //var host = 'google.com';
+  var hosts = ['192.168.1.1', 'google.com', 'yahoo.com'];
   
   //logic variables
   var wroteRecord = false;
   var checkingRecordEnd = true;
   var testVar = true;
   
+  var someAreAlive = 0;
   
   var record;
   var startTime,finishTime;
   
-    setInterval(()=>{  
+    setInterval(()=>{
+      
+      for (var i = 0;i<hosts.length;i++){
+        
+        //current host
+        var host = hosts[i];
+      
           ping.sys.probe(host, function(isAlive){
         var msg = isAlive ? 'host ' + host + ' is alive' : 'host ' + host + ' is dead';
         console.log(msg);
         
         if(isAlive){
+          someAreAlive++;
+        }
+        
+        //changes depending on the host count
+        if(i == hosts.length-1){
+          
+        
+        if(someAreAlive>0){
+          someAreAlive = 0;
           if(!checkingRecordEnd){
             checkingRecordEnd = true;
             wroteRecord = false;
@@ -53,7 +69,10 @@ var fs = require('fs');
           }
         }
         
+        }//enf if i
+        
     });
+    }
     }, 8000);
 
 
