@@ -1,0 +1,33 @@
+Offline time start: 2017:06:12:14:57:58 -- Offline time end: 2017:06:12:14:57:58Total time offline: 0 min
+Offline time start: 2017:06:12:15:00:26 -- Offline time end: 2017:06:12:15:00:26 Total time offline: 0 min (10 sec)
+Offline time start: 2017:06:12:15:00:56 -- Offline time end: 2017:06:12:15:00:56 Total time offline: 0 min (10 sec)
+Offline time start: 2017:06:12:15:01:26 -- Offline time end: 2017:06:12:15:01:26 Total time offline: 0 min (10 sec)
+Offline time start: 2017:06:12:15:04:06 -- Offline time end: 2017:06:12:15:04:06 Total time offline: 0 min 10 sec
+Offline time start: 2017:06:12:15:04:36 -- Offline time end: 2017:06:12:15:04:36 Total time offline: 0 min 10 sec
+Offline time start: 2017:06:12:15:05:06 -- Offline time end: 2017:06:12:15:05:06 Total time offline: 0 min 10 sec
+Offline time start: 2017:06:12:15:05:36 -- Offline time end: 2017:06:12:15:05:36 Total time offline: 0 min 10 sec
+Offline time start: 2017:06:12:15:06:07 -- Offline time end: 2017:06:12:15:06:07 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:07:16 -- Offline time end: 2017/06/12 - 15:07:16 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:07:46 -- Offline time end: 2017/06/12 - 15:07:46 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:08:16 -- Offline time end: 2017/06/12 - 15:08:16 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:08:46 -- Offline time end: 2017/06/12 - 15:08:46 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:09:16 -- Offline time end: 2017/06/12 - 15:09:16 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:09:40 -- Offline time end: 2017/06/12 - 15:09:50 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:10:10 -- Offline time end: 2017/06/12 - 15:10:20 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:10:40 -- Offline time end: 2017/06/12 - 15:10:50 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:11:10 -- Offline time end: 2017/06/12 - 15:11:20 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:11:40 -- Offline time end: 2017/06/12 - 15:11:50 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:12:11 -- Offline time end: 2017/06/12 - 15:12:21 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:12:41 -- Offline time end: 2017/06/12 - 15:12:51 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:13:11 -- Offline time end: 2017/06/12 - 15:13:21 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:13:41 -- Offline time end: 2017/06/12 - 15:13:51 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:14:11 -- Offline time end: 2017/06/12 - 15:14:21 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:14:41 -- Offline time end: 2017/06/12 - 15:14:51 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:15:11 -- Offline time end: 2017/06/12 - 15:15:21 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:15:41 -- Offline time end: 2017/06/12 - 15:15:51 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:16:11 -- Offline time end: 2017/06/12 - 15:16:21 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:16:41 -- Offline time end: 2017/06/12 - 15:16:51 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:17:11 -- Offline time end: 2017/06/12 - 15:17:21 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:17:41 -- Offline time end: 2017/06/12 - 15:17:51 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:18:11 -- Offline time end: 2017/06/12 - 15:18:21 Total time offline: 0 min 10 sec
+Offline time start: 2017/06/12 - 15:30:28 -- Offline time end: 2017/06/12 - 15:30:38 Total time offline: 0 min 10 sec

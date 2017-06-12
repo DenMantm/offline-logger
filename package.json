@@ -1,0 +1,15 @@
+{
+  "name": "offline-logger",
+  "scripts": {
+    "start": "forever server.js"
+  },
+  "version": "1.0.0",
+  "description": "Logger to check your internet connection avalability,Monitoring time your connection is offline",
+  "main": "server.js",
+  "repository": "",
+  "author": "Deniss Strods",
+  "dependencies": {
+    "forever": "^0.15.3",
+    "ping": "^0.2.2"
+  }
+}
