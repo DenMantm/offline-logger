@@ -27,7 +27,6 @@ var fs = require('fs');
             finishTime = new Date();
             
 
-            
             var minutes = Math.floor(((finishTime - startTime)/1000)/60);
             var seconds = Math.floor(((finishTime - startTime)/1000));
             
@@ -55,7 +54,7 @@ var fs = require('fs');
         }
         
     });
-    }, 10000);
+    }, 8000);
 
 
 function getDateTime(date) {
